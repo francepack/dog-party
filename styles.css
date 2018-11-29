@@ -1,0 +1,155 @@
+body {
+  /*border: solid #000000 1px;*/
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  position: center;
+  text-align: center;
+  font-weight: normal;
+  font-size: 150%;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+}
+
+header {
+  background-color: #92DFE5;
+  border-bottom: solid #3F8DA8 2px;
+  line-height: 30px;
+  
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+table {
+  width: 100%;
+  margin-top: 20px;
+}
+
+footer {
+  background-color: #048eaa;
+  margin: 0 ;
+}
+
+th {
+}
+
+td {
+  padding: 24px;
+}
+
+li {
+  display: inline;
+  color: #000000;
+  margin: 8px;
+  font-weight: bold;
+}
+
+.nav {
+  float: right;
+  overflow: hidden;
+  line-height: 10%;
+  padding: 9px;
+  font-size: 80%;
+}
+
+.media {
+  position: 50%;
+  padding-bottom: 20px;
+}
+
+.icon {
+  width: 30px;
+  height: 30px;
+  margin-top: 8px;
+  margin-left: 8px;
+}
+
+.medium {
+  width: 130px;
+  border-radius: 50%;
+  border: solid #048eaa 4px;
+  margin: 10px;
+}
+
+.top {
+  background-image: url(images/park.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 390px;
+  border-bottom: solid #000000 1px;
+}
+
+td.text {
+  text-align: left;
+}
+
+.columns {
+  text-align: center;
+  position: center;  
+}
+
+.title {
+  position: center;
+  text-align: center;
+}
+
+.name-entry {
+  width: 260px;
+  height: 24px;
+  border-style: none; 
+  margin: 5px; 
+}
+
+.submit {
+  width: 260px;
+  height: 24px;
+  border-style: none;
+  margin: 5px; 
+  background-color:#92DFE5;
+  margin-bottom: 40px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.learn {
+  text-align: center;
+  position: center;
+  color: #ffffff;
+  padding-top: 20px;
+}
+
+button {
+  position: center;
+  text-align: center;
+  background-color: #048eaa;
+  width:100%;
+  line-height: 30px;
+  color: #ffffff;
+  margin-bottom: 16px;
+}
+
+label {
+  text-align: left;
+}
+
+.name {
+  font-size: 12px;
+  margin-bottom: 0px;
+  text-align: 25%;
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+}
+
+li .icon { 
+  margin-left: -8px;
+  position: relative;
+  right: 18px;
+}
