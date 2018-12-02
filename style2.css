@@ -1,0 +1,171 @@
+body {
+  border-left: solid #000000 1px;
+  border-right: solid #000000 1px;
+  border-top: solid #000000 1px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+header {
+  background-color: #92DFE5;
+  border-bottom: solid #048eaa 2px;
+  line-height: 30px; 
+}
+
+.backdrop {
+  background-image: linear-gradient(
+      rgba(0, 0, 0, 0.5), 
+      rgba(0, 0, 0, 0.5)),
+    url(images/park.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 450px;
+  border-bottom: solid #000000 1px;
+}
+
+.nav {
+  float: right;
+  font-size: 80%;
+  font-weight: bold;
+  position: relative;
+  bottom: 5px;
+}
+
+li {
+  display: inline;
+  margin: 10px;
+}
+
+a {
+  color: #000000;
+  text-decoration: none;
+}
+
+.icon {
+  width: 30px;
+  height: 30px;
+  margin-top: 8px;
+  margin-left: 8px;
+}
+
+.title {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 100;
+  font-size: 150%;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+}
+
+.emph {
+  font-weight: bold;
+}
+
+.medium {
+  width: 170px;
+  border-radius: 50%;
+  border: solid #048eaa 4px;
+  margin: 10px;
+}
+
+.name {
+  font-size: 12px;
+  margin-bottom: 0px;
+  text-align: 25%;
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+  position: relative;
+  right: 125px;
+}
+
+.name-entry {
+  width: 280px;
+  height: 28px;
+  border-style: none; 
+  margin: 5px; 
+}
+
+.submit {
+  width: 282px;
+  height: 28px;
+  border-style: none;
+  margin: 7px; 
+  background-color: #92DFE5;
+  margin-bottom: 40px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+}
+
+.columns {
+  text-align: center;
+}
+
+table {
+  margin-top: 40px;
+  display: inline-block;
+  width: 30%;
+  min-width: 300px;
+}
+
+th {
+  font-size: 130%
+}
+
+td {
+  padding-left: 24px; 
+  padding-right: 24px;
+  padding-top: 10px;
+  padding-bottom: 8px;
+}
+
+td.text {
+  text-align: left;
+  height: 180px;
+  padding-bottom: 25px;
+}
+
+.left {
+  position: relative;
+  top: -20px;
+}
+
+.mid {
+  position: relative;
+  top: -4px;
+}
+
+.right {
+  position: relative;
+  top: -12px;
+}
+
+button {
+  text-align: center;
+  font-weight: 500;
+  background-color: #048eaa;
+  width: 100%;
+  line-height: 30px;
+  margin-bottom: 10px;
+  color: #ffffff;
+}
+
+footer {
+  background-color: #048eaa;
+  border-bottom: solid #000000 1px;
+  text-align: center;
+}
+
+.learn {
+  font-size: 80%;
+  color: #ffffff;
+  padding-top: 40px;
+}
+
+li .icon { 
+  margin-left: -8px;
+  position: relative;
+  right: 18px;
+  padding-bottom: 20px;
+}
