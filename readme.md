@@ -1,15 +1,16 @@
 # DOG PARTY
-Dog party is a website about some dogs that like to party. Most dogs like to party. Perhaps some breeds I'd consider 'obnoxious' do not like to party, but we will not dwell on that. This website is devoted to those dogs that DO like to party. If you, the user, have or know a dog that likes to party, you may type the name of that party animal into the text box, and watch as your party animal's name appears in the title of the webpage. Neat, right? (As of now, javaScript has not been added)
+This webpage was built using HTML and CSS. I will hope to add some JavaScript functionality soon.
 
-This is my first assignment for Turing school. In this assignment, we recieved a website comp to replicate as best we could as an itroduction to HTML/CSS. Additional challenges were to design a page that looks decent to a mobile viewer, and also to add javaScript that interacts with the input box, making the entered text appear in place of 'Some Dogs' in the title above.
+This is my first assignment for Turing school. We were asked to replicate a website comp to practice what we have learned about HTML & CSS. Additionally, we were challenged to design a page that will be viewable by a mobile user, and also to write javaScript that interacts with the input box, making the entered text appear in place of 'Some Dogs' in the title above. As of now, I have not added the JavaScript.
+Making this webpage helped get me started thinking particularly about assigning classes and when it may be handy to create tags for sections vs when that may be unnecessary. I had to work through quite a bit of trial and error positioning items on the page with CSS, and tried to thoughtfully research some areas we hadn't covered in class, the main thing being darkening the background image in the top portion of the page. I tried to clean up my code, though I suspect there is more to do, and CSS code that is not preferred technique, rather more patch-work. 
 
 Here is a screenshot of the comp I was trying to recreate:
 ![comp](https://github.com/francepack/dog-party/blob/master/images/comp.png)
 
-Here are screenshots of the site:
+Here are screenshots of my site:
 ![mysite1](https://github.com/francepack/dog-party/blob/master/images/mysite1.png)
 ![mysite2](https://github.com/francepack/dog-party/blob/master/images/mysite2.png)
 
-Here are 2 shots showing how it collapses for a mobile user
+Here are 2 shots showing the site's look for a mobile user:
 ![mobile1](https://github.com/francepack/dog-party/blob/master/images/mobile1.png)
 ![mobile2](https://github.com/francepack/dog-party/blob/master/images/mobile2.png)
